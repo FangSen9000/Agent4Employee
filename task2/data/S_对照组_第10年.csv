@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+1,S,Sales,32,0,5,S,5
+2,S,Marketing,32,0,5,S,5
+3,S,Marketing,32,1,4,A,3
+4,S,Engineering,32,0,5,S,5
+5,S,IT Support,32,1,4,A,3
+6,S,Data Science,32,0,5,S,5
+7,S,Software Engineering,32,0,5,S,5
+8,S,Operations,32,0,5,S,5
+9,S,Business Intelligence,32,0,5,S,5
+10,S,Product Management,32,0,5,S,5
+11,S,Quality Assurance,32,1,4,A,4
+12,S,Research & Development,32,0,5,S,5
+13,S,Customer Success,32,0,5,S,5
+14,S,Infrastructure,32,0,5,S,5
+15,S,Cloud Engineering,32,0,5,S,5
+16,S,Systems Administration,32,0,5,S,5
+17,S,Technical Support,32,1,4,A,3
+18,S,DevOps,32,0,5,S,5
+19,S,Frontend Development,32,0,5,S,5
+20,S,Backend Development,32,0,5,S,5
+21,S,Mobile Development,32,0,5,S,5
+22,S,UX Design,32,0,5,S,5
+23,S,UI Design,32,0,5,S,5
+24,S,Database Administration,32,0,5,S,5
+25,S,Network Security,32,0,5,S,5
+26,S,Logistics,32,0,5,S,5
+27,S,Facilities Management,32,1,4,A,3
+28,S,Supply Chain,32,0,5,S,5
+29,S,Procurement,32,0,5,S,4
+30,S,Inventory Management,32,1,4,A,3
+31,S,Office Administration,32,1,4,A,3
+32,S,Asset Management,32,0,5,S,5
+33,S,Finance,32,0,5,S,5
+34,S,Accounting,32,0,5,S,5
+35,S,Legal,32,0,5,S,5
+36,S,Compliance,32,0,5,S,5
+37,S,Risk Management,32,0,5,S,5
+38,S,Internal Audit,32,0,5,S,5
+39,S,Treasury,32,0,5,S,5
+40,S,Tax,32,0,5,S,5
+41,S,Business Development,32,0,5,S,5
+42,S,Strategic Planning,32,0,5,S,5
+43,S,Corporate Development,32,0,5,S,5
+44,S,Project Management,32,0,5,S,5
+45,S,Program Management,32,0,5,S,5
+46,S,Portfolio Management,32,0,5,S,5
+47,S,Change Management,32,0,5,S,5
+48,S,Innovation,32,0,5,S,5
+49,S,Digital Marketing,32,0,5,S,5
+50,S,Content Marketing,32,0,5,S,5
+51,S,Social Media,32,0,5,S,5
+52,S,Brand Management,32,0,5,S,5
+53,S,Public Relations,32,0,5,S,5
+54,S,Corporate Communications,32,0,5,S,5
+55,S,Events Management,32,0,5,S,5
+56,S,Market Research,32,0,5,S,5
+57,S,Competitive Analysis,32,0,5,S,5
+58,S,Customer Intelligence,32,0,5,S,5
+59,S,Product Marketing,32,0,5,S,5
+60,S,Partner Marketing,32,0,5,S,5
+61,S,Growth Marketing,32,0,5,S,5
+62,S,Performance Marketing,32,0,5,S,5
+63,S,Email Marketing,32,0,5,S,5
+64,S,SEO Optimization,32,0,5,S,5
+65,S,SEM Management,32,0,5,S,5
+66,S,Analytics Engineering,32,0,5,S,5
+67,S,Data Engineering,32,0,5,S,5
+68,S,Machine Learning,32,0,5,S,5
+69,S,AI Development,32,0,5,S,5
+70,S,Blockchain Development,32,0,5,S,5
+71,S,Cloud Architecture,32,0,5,S,5
+72,S,Systems Architecture,32,0,5,S,5
+73,S,Network Architecture,32,0,5,S,5
+74,S,Security Architecture,32,0,5,S,5
+75,S,Information Security,32,0,5,S,5
+76,S,Application Security,32,0,5,S,5
+77,S,Security Operations,32,0,5,S,5
+78,S,Cyber Security,32,0,5,S,5
+79,S,Security Engineering,32,0,5,S,5
+80,S,Penetration Testing,32,0,5,S,5
+81,S,Security Analysis,32,0,5,S,5
+82,S,Incident Response,32,0,5,S,5
+83,S,Threat Intelligence,32,0,5,S,5
+84,S,Risk Assessment,32,0,5,S,5
+85,S,Compliance Audit,32,0,5,S,5
+86,S,Security Architecture,32,0,5,S,5
+87,S,Identity Management,32,0,5,S,5
+88,S,Access Management,32,0,5,S,5
+89,S,Security Governance,32,0,5,S,5
+90,S,Security Training,32,0,5,S,5
+91,S,Documentation,32,1,4,A,3
+92,S,Technical Writing,32,0,5,S,5
+93,S,Knowledge Management,32,0,5,S,5
+94,S,Learning Development,32,0,5,S,5
+95,S,Training Coordination,32,0,5,S,5
+96,S,Organizational Development,32,0,5,S,5
+97,S,Talent Management,32,0,5,S,5
+98,S,Recruitment,32,0,5,S,5
+99,S,Talent Acquisition,32,0,5,S,5
+100,S,Employee Relations,32,0,5,S,5

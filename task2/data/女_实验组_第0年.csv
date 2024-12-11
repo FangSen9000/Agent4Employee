@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+Alice Taylor,Female,Sales,22,1,1,B,1
+Barbara Taylor,Female,Marketing,22,1,1,B,1
+Carol Smith,Female,Marketing,22,1,1,B,1
+Diana Johnson,Female,Engineering,22,1,1,B,1
+Elena Williams,Female,IT Support,22,1,1,B,1
+Frances Brown,Female,Data Science,22,1,1,B,1
+Grace Davis,Female,Software Engineering,22,1,1,B,1
+Hannah Lee,Female,Operations,22,1,1,B,1
+Isabella Miller,Female,Business Intelligence,22,1,1,B,1
+Julia Wilson,Female,Product Management,22,1,1,B,1
+Katherine Moore,Female,Quality Assurance,22,1,1,B,1
+Laura Jackson,Female,Research & Development,22,1,1,B,1
+Mary Harris,Female,Customer Success,22,1,1,B,1
+Nancy Thompson,Female,Infrastructure,22,1,1,B,1
+Olivia Rodriguez,Female,Cloud Engineering,22,1,1,B,1
+Patricia Garcia,Female,Systems Administration,22,1,1,B,1
+Quinn Martinez,Female,Technical Support,22,1,1,B,1
+Rachel Robinson,Female,DevOps,22,1,1,B,1
+Sarah Lewis,Female,Frontend Development,22,1,1,B,1
+Tara Lee,Female,Backend Development,22,1,1,B,1
+Uma Clark,Female,Mobile Development,22,1,1,B,1
+Victoria Wright,Female,UX Design,22,1,1,B,1
+Wendy Young,Female,UI Design,22,1,1,B,1
+Xena King,Female,Database Administration,22,1,1,B,1
+Yolanda Scott,Female,Network Security,22,1,1,B,1
+Zoe Adams,Female,Logistics,22,1,1,B,1
+Amanda Baker,Female,Facilities Management,22,1,1,B,1
+Bethany Carter,Female,Supply Chain,22,1,1,B,1
+Chloe Evans,Female,Procurement,22,1,1,B,1
+Dorothy Foster,Female,Inventory Management,22,1,1,B,1
+Emma Green,Female,Office Administration,22,1,1,B,1
+Fiona Hall,Female,Asset Management,22,1,1,B,1
+Georgia Hughes,Female,Finance,22,1,1,B,1
+Holly Jenkins,Female,Accounting,22,1,1,B,1
+Iris Kennedy,Female,Legal,22,1,1,B,1
+Jane Long,Female,Compliance,22,1,1,B,1
+Kelly Morris,Female,Risk Management,22,1,1,B,1
+Linda Nelson,Female,Internal Audit,22,1,1,B,1
+Megan Owen,Female,Treasury,22,1,1,B,1
+Natalie Parker,Female,Tax,22,1,1,B,1
+Ophelia Quinn,Female,Business Development,22,1,1,B,1
+Penelope Ross,Female,Strategic Planning,22,1,1,B,1
+Ruby Stevens,Female,Corporate Development,22,1,1,B,1
+Sophia Turner,Female,Project Management,22,1,1,B,1
+Tessa Underwood,Female,Program Management,22,1,1,B,1
+Ursula Valentine,Female,Portfolio Management,22,1,1,B,1
+Violet Watson,Female,Change Management,22,1,1,B,1
+Whitney Xiong,Female,Innovation,22,1,1,B,1
+Yvette Zhang,Female,Digital Marketing,22,1,1,B,1
+Abigail Abbott,Female,Content Marketing,22,1,1,B,1
+Brianna Bennett,Female,Social Media,22,1,1,B,1
+Charlotte Collins,Female,Brand Management,22,1,1,B,1
+Danielle Davidson,Female,Public Relations,22,1,1,B,1
+Elizabeth Ellis,Female,Corporate Communications,22,1,1,B,1
+Felicity Fisher,Female,Events Management,22,1,1,B,1
+Gabrielle Graham,Female,Market Research,22,1,1,B,1
+Heather Henderson,Female,Competitive Analysis,22,1,1,B,1
+Isabel Irving,Female,Customer Intelligence,22,1,1,B,1
+Jennifer James,Female,Product Marketing,22,1,1,B,1
+Kimberly Klein,Female,Partner Marketing,22,1,1,B,1
+Lily Lloyd,Female,Growth Marketing,22,1,1,B,1
+Madison Marshall,Female,Performance Marketing,22,1,1,B,1
+Nicole Newman,Female,Email Marketing,22,1,1,B,1
+Octavia O'Brien,Female,SEO Optimization,22,1,1,B,1
+Paige Powell,Female,SEM Management,22,1,1,B,1
+Rose Russell,Female,Analytics Engineering,22,1,1,B,1
+Samantha Sanders,Female,Data Engineering,22,1,1,B,1
+Theresa Tucker,Female,Machine Learning,22,1,1,B,1
+Unity Urban,Female,AI Development,22,1,1,B,1
+Valerie Vaughn,Female,Blockchain Development,22,1,1,B,1
+Willow Warren,Female,Cloud Architecture,22,1,1,B,1
+Xiomara Xavier,Female,Systems Architecture,22,1,1,B,1
+Yasmine Young,Female,Network Architecture,22,1,1,B,1
+Zelda Zimmerman,Female,Security Architecture,22,1,1,B,1
+Andrea Anderson,Female,Information Security,22,1,1,B,1
+Brooklyn Baldwin,Female,Application Security,22,1,1,B,1
+Cassidy Coleman,Female,Security Operations,22,1,1,B,1
+Dawn Douglas,Female,Cyber Security,22,1,1,B,1
+Elise Edwards,Female,Security Engineering,22,1,1,B,1
+Faye Fletcher,Female,Penetration Testing,22,1,1,B,1
+Gwen Gibson,Female,Security Analysis,22,1,1,B,1
+Hope Hamilton,Female,Incident Response,22,1,1,B,1
+Ivy Ingram,Female,Threat Intelligence,22,1,1,B,1
+Jasmine Jackson,Female,Risk Assessment,22,1,1,B,1
+Keira Kennedy,Female,Compliance Audit,22,1,1,B,1
+Luna Lambert,Female,Security Architecture,22,1,1,B,1
+Melody Mitchell,Female,Identity Management,22,1,1,B,1
+Nina Norton,Female,Access Management,22,1,1,B,1
+Odette O'Connor,Female,Security Governance,22,1,1,B,1
+Pearl Palmer,Female,Security Training,22,1,1,B,1
+Quincy Quinn,Female,Documentation,22,1,1,B,1
+Rebecca Richards,Female,Technical Writing,22,1,1,B,1
+Stella Stone,Female,Knowledge Management,22,1,1,B,1
+Tamara Thompson,Female,Learning Development,22,1,1,B,1
+Uma Urban,Female,Training Coordination,22,1,1,B,1
+Vanessa Valentine,Female,Organizational Development,22,1,1,B,1
+Winter Walker,Female,Talent Management,22,1,1,B,1
+Ximena Xu,Female,Recruitment,22,1,1,B,1
+Yara Young,Female,Talent Acquisition,22,1,1,B,1
+Zara Zhang,Female,Employee Relations,22,1,1,B,1

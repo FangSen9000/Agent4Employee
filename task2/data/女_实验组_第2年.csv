@@ -1,0 +1,102 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+Alice Taylor,Female,Sales,24,2,3,A,2
+Barbara Taylor,Female,Marketing,24,1,4,A,3
+Carol Smith,Female,Marketing,24,2,3,B,2
+Diana Johnson,Female,Engineering,24,1,4,A,4
+Elena Williams,Female,IT Support,24,3,2,B,1
+Frances Brown,Female,Data Science,24,1,5,S,3
+Grace Davis,Female,Software Engineering,24,0,5,S,4
+Hannah Lee,Female,Operations,24,2,3,B,2
+Isabella Miller,Female,Business Intelligence,24,1,4,A,3
+Julia Wilson,Female,Product Management,24,1,4,A,4
+Katherine Moore,Female,Quality Assurance,24,3,2,B,1
+Laura Jackson,Female,Research & Development,24,1,5,A,3
+Mary Harris,Female,Customer Success,24,2,3,B,2
+Nancy Thompson,Female,Infrastructure,24,1,4,A,3
+Olivia Rodriguez,Female,Cloud Engineering,24,0,5,S,4
+Patricia Garcia,Female,Systems Administration,24,2,3,B,2
+Quinn Martinez,Female,Technical Support,24,3,2,C,1
+Rachel Robinson,Female,DevOps,24,1,4,A,3
+Sarah Lewis,Female,Frontend Development,24,1,4,A,3
+Tara Lee,Female,Backend Development,24,0,5,S,4
+Uma Clark,Female,Mobile Development,24,1,4,A,3
+Victoria Wright,Female,UX Design,24,2,3,B,2
+Wendy Young,Female,UI Design,24,2,3,B,2
+Xena King,Female,Database Administration,24,1,4,A,3
+Yolanda Scott,Female,Network Security,24,1,4,A,3
+Zoe Adams,Female,Logistics,24,2,3,B,2
+Amanda Baker,Female,Facilities Management,24,3,2,C,1
+Bethany Carter,Female,Supply Chain,24,2,3,B,2
+Chloe Evans,Female,Procurement,24,2,3,B,2
+Dorothy Foster,Female,Inventory Management,24,3,2,C,1
+Emma Green,Female,Office Administration,24,3,2,C,1
+Fiona Hall,Female,Asset Management,24,2,3,B,2
+Georgia Hughes,Female,Finance,24,1,4,A,3
+Holly Jenkins,Female,Accounting,24,1,4,A,3
+Iris Kennedy,Female,Legal,24,1,4,A,4
+Jane Long,Female,Compliance,24,2,3,B,2
+Kelly Morris,Female,Risk Management,24,1,4,A,3
+Linda Nelson,Female,Internal Audit,24,2,3,B,2
+Megan Owen,Female,Treasury,24,1,4,A,3
+Natalie Parker,Female,Tax,24,2,3,B,2
+Ophelia Quinn,Female,Business Development,24,1,4,S,4
+Penelope Ross,Female,Strategic Planning,24,0,5,S,5
+Ruby Stevens,Female,Corporate Development,24,1,4,A,3
+Sophia Turner,Female,Project Management,24,1,4,A,4
+Tessa Underwood,Female,Program Management,24,1,4,A,3
+Ursula Valentine,Female,Portfolio Management,24,2,3,B,2
+Violet Watson,Female,Change Management,24,1,4,A,3
+Whitney Xiong,Female,Innovation,24,0,5,S,4
+Yvette Zhang,Female,Digital Marketing,24,2,3,B,2
+Abigail Abbott,Female,Content Marketing,24,2,3,B,2
+Brianna Bennett,Female,Social Media,24,3,2,C,1
+Charlotte Collins,Female,Brand Management,24,1,4,A,3
+Danielle Davidson,Female,Public Relations,24,2,3,B,2
+Elizabeth Ellis,Female,Corporate Communications,24,1,4,A,3
+Felicity Fisher,Female,Events Management,24,2,3,B,2
+Gabrielle Graham,Female,Market Research,24,1,4,A,3
+Heather Henderson,Female,Competitive Analysis,24,1,4,A,3
+Isabel Irving,Female,Customer Intelligence,24,1,4,A,3
+Jennifer James,Female,Product Marketing,24,1,4,A,3
+Kimberly Klein,Female,Partner Marketing,24,2,3,B,2
+Lily Lloyd,Female,Growth Marketing,24,1,4,S,4
+Madison Marshall,Female,Performance Marketing,24,1,4,A,3
+Nicole Newman,Female,Email Marketing,24,2,3,B,2
+Octavia O'Brien,Female,SEO Optimization,24,2,3,B,2
+Paige Powell,Female,SEM Management,24,2,3,B,2
+Rose Russell,Female,Analytics Engineering,24,0,5,S,4
+Samantha Sanders,Female,Data Engineering,24,0,5,S,4
+Theresa Tucker,Female,Machine Learning,24,0,5,S,4
+Unity Urban,Female,AI Development,24,0,5,S,4
+Valerie Vaughn,Female,Blockchain Development,24,1,4,A,3
+Willow Warren,Female,Cloud Architecture,24,0,5,S,4
+Xiomara Xavier,Female,Systems Architecture,24,1,4,A,3
+Yasmine Young,Female,Network Architecture,24,1,4,A,3
+Zelda Zimmerman,Female,Security Architecture,24,1,4,A,3
+Andrea Anderson,Female,Information Security,24,1,4,A,3
+Brooklyn Baldwin,Female,Application Security,24,1,4,A,3
+Cassidy Coleman,Female,Security Operations,24,1,4,A,3
+Dawn Douglas,Female,Cyber Security,24,1,4,A,3
+Elise Edwards,Female,Security Engineering,24,0,5,S,4
+Faye Fletcher,Female,Penetration Testing,24,1,4,A,3
+Gwen Gibson,Female,Security Analysis,24,1,4,A,3
+Hope Hamilton,Female,Incident Response,24,1,4,A,3
+Ivy Ingram,Female,Threat Intelligence,24,1,4,A,3
+Jasmine Jackson,Female,Risk Assessment,24,1,4,A,3
+Keira Kennedy,Female,Compliance Audit,24,2,3,B,2
+Luna Lambert,Female,Security Architecture,24,1,4,A,3
+Melody Mitchell,Female,Identity Management,24,2,3,B,2
+Nina Norton,Female,Access Management,24,2,3,B,2
+Odette O'Connor,Female,Security Governance,24,1,4,A,3
+Pearl Palmer,Female,Security Training,24,2,3,B,2
+Quincy Quinn,Female,Documentation,24,3,2,C,1
+Rebecca Richards,Female,Technical Writing,24,2,3,B,2
+Stella Stone,Female,Knowledge Management,24,2,3,B,2
+Tamara Thompson,Female,Learning Development,24,2,3,B,2
+Uma Urban,Female,Training Coordination,24,2,3,B,2
+Vanessa Valentine,Female,Organizational Development,24,1,4,A,3
+Winter Walker,Female,Talent Management,24,1,4,A,3
+Ximena Xu,Female,Talent Acquisition,24,2,3,B,2
+Yara Young,Female,Employee Relations,24,2,3,B,2
+Zara Zhang,Female,Employee Relations,24,2,3,B,2
+,,,,1.39,3.63,,2.68

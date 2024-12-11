@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+Alice Taylor,Female,Sales,32,0,5,S,5
+Barbara Taylor,Female,Marketing,32,0,5,S,5
+Carol Smith,Female,Marketing,32,1,5,S,5
+Diana Johnson,Female,Engineering,32,0,5,S,5
+Elena Williams,Female,IT Support,32,1,4,A,4
+Frances Brown,Female,Data Science,32,0,5,S,5
+Grace Davis,Female,Software Engineering,32,0,5,S,5
+Hannah Lee,Female,Operations,32,1,5,S,5
+Isabella Miller,Female,Business Intelligence,32,0,5,S,5
+Julia Wilson,Female,Product Management,32,0,5,S,5
+Katherine Moore,Female,Quality Assurance,32,1,4,A,4
+Laura Jackson,Female,Research & Development,32,0,5,S,5
+Mary Harris,Female,Customer Success,32,1,5,S,5
+Nancy Thompson,Female,Infrastructure,32,0,5,S,5
+Olivia Rodriguez,Female,Cloud Engineering,32,0,5,S,5
+Patricia Garcia,Female,Systems Administration,32,1,4,A,4
+Quinn Martinez,Female,Technical Support,32,2,4,B,3
+Rachel Robinson,Female,DevOps,32,0,5,S,5
+Sarah Lewis,Female,Frontend Development,32,0,5,S,5
+Tara Lee,Female,Backend Development,32,0,5,S,5
+Uma Clark,Female,Mobile Development,32,0,5,S,5
+Victoria Wright,Female,UX Design,32,0,5,S,5
+Wendy Young,Female,UI Design,32,0,5,S,5
+Xena King,Female,Database Administration,32,0,5,S,5
+Yolanda Scott,Female,Network Security,32,0,5,S,5
+Zoe Adams,Female,Logistics,32,1,5,S,5
+Amanda Baker,Female,Facilities Management,32,2,4,A,4
+Bethany Carter,Female,Supply Chain,32,1,5,S,5
+Chloe Evans,Female,Procurement,32,1,4,A,4
+Dorothy Foster,Female,Inventory Management,32,2,4,B,3
+Emma Green,Female,Office Administration,32,2,4,B,3
+Fiona Hall,Female,Asset Management,32,1,5,S,5
+Georgia Hughes,Female,Finance,32,0,5,S,5
+Holly Jenkins,Female,Accounting,32,0,5,S,5
+Iris Kennedy,Female,Legal,32,0,5,S,5
+Jane Long,Female,Compliance,32,0,5,S,5
+Kelly Morris,Female,Risk Management,32,0,5,S,5
+Linda Nelson,Female,Internal Audit,32,0,5,S,5
+Megan Owen,Female,Treasury,32,0,5,S,5
+Natalie Parker,Female,Tax,32,0,5,S,5
+Ophelia Quinn,Female,Business Development,32,0,5,S,5
+Penelope Ross,Female,Strategic Planning,32,0,5,S,5
+Ruby Stevens,Female,Corporate Development,32,0,5,S,5
+Sophia Turner,Female,Project Management,32,0,5,S,5
+Tessa Underwood,Female,Program Management,32,0,5,S,5
+Ursula Valentine,Female,Portfolio Management,32,0,5,S,5
+Violet Watson,Female,Change Management,32,0,5,S,5
+Whitney Xiong,Female,Innovation,32,0,5,S,5
+Yvette Zhang,Female,Digital Marketing,32,0,5,S,5
+Abigail Abbott,Female,Content Marketing,32,0,5,S,5
+Brianna Bennett,Female,Social Media,32,1,4,A,4
+Charlotte Collins,Female,Brand Management,32,0,5,S,5
+Danielle Davidson,Female,Public Relations,32,0,5,S,5
+Elizabeth Ellis,Female,Corporate Communications,32,0,5,S,5
+Felicity Fisher,Female,Events Management,32,1,4,A,4
+Gabrielle Graham,Female,Market Research,32,0,5,S,5
+Heather Henderson,Female,Competitive Analysis,32,0,5,S,5
+Isabel Irving,Female,Customer Intelligence,32,0,5,S,5
+Jennifer James,Female,Product Marketing,32,0,5,S,5
+Kimberly Klein,Female,Partner Marketing,32,0,5,S,5
+Lily Lloyd,Female,Growth Marketing,32,0,5,S,5
+Madison Marshall,Female,Performance Marketing,32,0,5,S,5
+Nicole Newman,Female,Email Marketing,32,0,5,S,5
+Octavia O'Brien,Female,SEO Optimization,32,0,5,S,5
+Paige Powell,Female,SEM Management,32,0,5,S,5
+Rose Russell,Female,Analytics Engineering,32,0,5,S,5
+Samantha Sanders,Female,Data Engineering,32,0,5,S,5
+Theresa Tucker,Female,Machine Learning,32,0,5,S,5
+Unity Urban,Female,AI Development,32,0,5,S,5
+Valerie Vaughn,Female,Blockchain Development,32,0,5,S,5
+Willow Warren,Female,Cloud Architecture,32,0,5,S,5
+Xiomara Xavier,Female,Systems Architecture,32,0,5,S,5
+Yasmine Young,Female,Network Architecture,32,0,5,S,5
+Zelda Zimmerman,Female,Security Architecture,32,0,5,S,5
+Andrea Anderson,Female,Information Security,32,0,5,S,5
+Brooklyn Baldwin,Female,Application Security,32,0,5,S,5
+Cassidy Coleman,Female,Security Operations,32,0,5,S,5
+Dawn Douglas,Female,Cyber Security,32,0,5,S,5
+Elise Edwards,Female,Security Engineering,32,0,5,S,5
+Faye Fletcher,Female,Penetration Testing,32,0,5,S,5
+Gwen Gibson,Female,Security Analysis,32,0,5,S,5
+Hope Hamilton,Female,Incident Response,32,0,5,S,5
+Ivy Ingram,Female,Threat Intelligence,32,0,5,S,5
+Jasmine Jackson,Female,Risk Assessment,32,0,5,S,5
+Keira Kennedy,Female,Compliance Audit,32,0,5,S,5
+Luna Lambert,Female,Security Architecture,32,0,5,S,5
+Melody Mitchell,Female,Identity Management,32,0,5,S,5
+Nina Norton,Female,Access Management,32,0,5,S,5
+Odette O'Connor,Female,Security Governance,32,0,5,S,5
+Pearl Palmer,Female,Security Training,32,0,5,S,5
+Quincy Quinn,Female,Documentation,32,1,4,A,4
+Rebecca Richards,Female,Technical Writing,32,1,5,S,5
+Stella Stone,Female,Knowledge Management,32,0,5,S,5
+Tamara Thompson,Female,Learning Development,32,0,5,S,5
+Uma Urban,Female,Training Coordination,32,0,5,S,5
+Vanessa Valentine,Female,Organizational Development,32,0,5,S,5
+Winter Walker,Female,Talent Management,32,0,5,S,5
+Ximena Xu,Female,Talent Acquisition,32,0,5,S,5
+Yara Young,Female,Employee Relations,32,0,5,S,5
+Zara Zhang,Female,Employee Relations,32,0,5,S,5

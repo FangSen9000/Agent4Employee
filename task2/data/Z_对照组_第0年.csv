@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+1,Z,Sales,22,1,1,B,1
+2,Z,Marketing,22,1,1,B,1
+3,Z,Marketing,22,1,1,B,1
+4,Z,Engineering,22,1,1,B,1
+5,Z,IT Support,22,1,1,B,1
+6,Z,Data Science,22,1,1,B,1
+7,Z,Software Engineering,22,1,1,B,1
+8,Z,Operations,22,1,1,B,1
+9,Z,Business Intelligence,22,1,1,B,1
+10,Z,Product Management,22,1,1,B,1
+11,Z,Quality Assurance,22,1,1,B,1
+12,Z,Research & Development,22,1,1,B,1
+13,Z,Customer Success,22,1,1,B,1
+14,Z,Infrastructure,22,1,1,B,1
+15,Z,Cloud Engineering,22,1,1,B,1
+16,Z,Systems Administration,22,1,1,B,1
+17,Z,Technical Support,22,1,1,B,1
+18,Z,DevOps,22,1,1,B,1
+19,Z,Frontend Development,22,1,1,B,1
+20,Z,Backend Development,22,1,1,B,1
+21,Z,Mobile Development,22,1,1,B,1
+22,Z,UX Design,22,1,1,B,1
+23,Z,UI Design,22,1,1,B,1
+24,Z,Database Administration,22,1,1,B,1
+25,Z,Network Security,22,1,1,B,1
+26,Z,Logistics,22,1,1,B,1
+27,Z,Facilities Management,22,1,1,B,1
+28,Z,Supply Chain,22,1,1,B,1
+29,Z,Procurement,22,1,1,B,1
+30,Z,Inventory Management,22,1,1,B,1
+31,Z,Office Administration,22,1,1,B,1
+32,Z,Asset Management,22,1,1,B,1
+33,Z,Finance,22,1,1,B,1
+34,Z,Accounting,22,1,1,B,1
+35,Z,Legal,22,1,1,B,1
+36,Z,Compliance,22,1,1,B,1
+37,Z,Risk Management,22,1,1,B,1
+38,Z,Internal Audit,22,1,1,B,1
+39,Z,Treasury,22,1,1,B,1
+40,Z,Tax,22,1,1,B,1
+41,Z,Business Development,22,1,1,B,1
+42,Z,Strategic Planning,22,1,1,B,1
+43,Z,Corporate Development,22,1,1,B,1
+44,Z,Project Management,22,1,1,B,1
+45,Z,Program Management,22,1,1,B,1
+46,Z,Portfolio Management,22,1,1,B,1
+47,Z,Change Management,22,1,1,B,1
+48,Z,Innovation,22,1,1,B,1
+49,Z,Digital Marketing,22,1,1,B,1
+50,Z,Content Marketing,22,1,1,B,1
+51,Z,Social Media,22,1,1,B,1
+52,Z,Brand Management,22,1,1,B,1
+53,Z,Public Relations,22,1,1,B,1
+54,Z,Corporate Communications,22,1,1,B,1
+55,Z,Events Management,22,1,1,B,1
+56,Z,Market Research,22,1,1,B,1
+57,Z,Competitive Analysis,22,1,1,B,1
+58,Z,Customer Intelligence,22,1,1,B,1
+59,Z,Product Marketing,22,1,1,B,1
+60,Z,Partner Marketing,22,1,1,B,1
+61,Z,Growth Marketing,22,1,1,B,1
+62,Z,Performance Marketing,22,1,1,B,1
+63,Z,Email Marketing,22,1,1,B,1
+64,Z,SEO Optimization,22,1,1,B,1
+65,Z,SEM Management,22,1,1,B,1
+66,Z,Analytics Engineering,22,1,1,B,1
+67,Z,Data Engineering,22,1,1,B,1
+68,Z,Machine Learning,22,1,1,B,1
+69,Z,AI Development,22,1,1,B,1
+70,Z,Blockchain Development,22,1,1,B,1
+71,Z,Cloud Architecture,22,1,1,B,1
+72,Z,Systems Architecture,22,1,1,B,1
+73,Z,Network Architecture,22,1,1,B,1
+74,Z,Security Architecture,22,1,1,B,1
+75,Z,Information Security,22,1,1,B,1
+76,Z,Application Security,22,1,1,B,1
+77,Z,Security Operations,22,1,1,B,1
+78,Z,Cyber Security,22,1,1,B,1
+79,Z,Security Engineering,22,1,1,B,1
+80,Z,Penetration Testing,22,1,1,B,1
+81,Z,Security Analysis,22,1,1,B,1
+82,Z,Incident Response,22,1,1,B,1
+83,Z,Threat Intelligence,22,1,1,B,1
+84,Z,Risk Assessment,22,1,1,B,1
+85,Z,Compliance Audit,22,1,1,B,1
+86,Z,Security Architecture,22,1,1,B,1
+87,Z,Identity Management,22,1,1,B,1
+88,Z,Access Management,22,1,1,B,1
+89,Z,Security Governance,22,1,1,B,1
+90,Z,Security Training,22,1,1,B,1
+91,Z,Documentation,22,1,1,B,1
+92,Z,Technical Writing,22,1,1,B,1
+93,Z,Knowledge Management,22,1,1,B,1
+94,Z,Learning Development,22,1,1,B,1
+95,Z,Training Coordination,22,1,1,B,1
+96,Z,Organizational Development,22,1,1,B,1
+97,Z,Talent Management,22,1,1,B,1
+98,Z,Recruitment,22,1,1,B,1
+99,Z,Talent Acquisition,22,1,1,B,1
+100,Z,Employee Relations,22,1,1,B,1
