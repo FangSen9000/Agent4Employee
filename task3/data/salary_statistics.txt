@@ -1,0 +1,52 @@
+Salary Analysis Results
+==================================================
+
+Average Salary by Gender:
+gender
+Female    14980.276068
+Male      13868.655689
+Name: salary, dtype: float64
+
+Median Salary by Gender:
+gender
+Female    12000.0
+Male      11697.5
+Name: salary, dtype: float64
+
+Average Career Level by Gender:
+gender
+Female    5.083416
+Male      4.713573
+Name: level, dtype: float64
+
+Salary Range by Gender:
+           min       max
+gender                  
+Female  4583.0  130000.0
+Male    4167.0   52000.0
+
+Total Salary Growth (Age 22-32):
+gender
+Female    298.8%
+Male      278.8%
+dtype: object
+
+Salary Comparison Statistics:
+Times male salary is higher: 44369
+Times female salary is higher: 45247
+Times salaries are equal: 3371
+
+Salary Gap by Age (Female - Male):
+age
+22      -7.477919
+23     743.691489
+24     851.684211
+25    1093.172228
+26    1135.178947
+27    1231.635722
+28    1341.894737
+29    1385.070549
+30    1413.610526
+31    1346.410526
+32    1257.563606
+Name: gap, dtype: float64
