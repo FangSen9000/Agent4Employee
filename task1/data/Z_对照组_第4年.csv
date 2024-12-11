@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+1,Z,Sales,26,1,4,A,3
+2,Z,Marketing,26,1,4,S,4
+3,Z,Marketing,26,2,3,B,2
+4,Z,Engineering,26,0,5,S,4
+5,Z,IT Support,26,3,3,B,2
+6,Z,Data Science,26,0,5,S,5
+7,Z,Software Engineering,26,1,5,S,4
+8,Z,Operations,26,2,4,A,3
+9,Z,Business Intelligence,26,0,5,S,4
+10,Z,Product Management,26,1,5,S,5
+11,Z,Quality Assurance,26,2,4,A,3
+12,Z,Research & Development,26,0,5,S,4
+13,Z,Customer Success,26,2,4,A,3
+14,Z,Infrastructure,26,1,5,S,4
+15,Z,Cloud Engineering,26,0,5,S,4
+16,Z,Systems Administration,26,2,4,A,3
+17,Z,Technical Support,26,3,3,C,2
+18,Z,DevOps,26,1,5,S,4
+19,Z,Frontend Development,26,1,5,S,3
+20,Z,Backend Development,26,0,5,S,4
+21,Z,Mobile Development,26,1,5,S,3
+22,Z,UX Design,26,1,5,S,4
+23,Z,UI Design,26,2,4,A,3
+24,Z,Database Administration,26,1,5,S,4
+25,Z,Network Security,26,0,5,S,5
+26,Z,Logistics,26,2,4,A,3
+27,Z,Facilities Management,26,3,3,B,2
+28,Z,Supply Chain,26,1,5,S,4
+29,Z,Procurement,26,2,4,A,3
+30,Z,Inventory Management,26,3,3,B,2
+31,Z,Office Administration,26,3,3,B,2
+32,Z,Asset Management,26,2,4,A,3
+33,Z,Finance,26,1,5,S,4
+34,Z,Accounting,26,2,4,A,3
+35,Z,Legal,26,0,5,S,5
+36,Z,Compliance,26,1,5,S,4
+37,Z,Risk Management,26,1,5,S,4
+38,Z,Internal Audit,26,1,5,S,4
+39,Z,Treasury,26,1,5,S,4
+40,Z,Tax,26,1,5,S,4
+41,Z,Business Development,26,0,5,S,5
+42,Z,Strategic Planning,26,0,5,S,5
+43,Z,Corporate Development,26,0,5,S,5
+44,Z,Project Management,26,1,5,S,4
+45,Z,Program Management,26,1,5,S,4
+46,Z,Portfolio Management,26,0,5,S,5
+47,Z,Change Management,26,1,5,S,4
+48,Z,Innovation,26,0,5,S,5
+49,Z,Digital Marketing,26,1,5,S,4
+50,Z,Content Marketing,26,2,4,A,3
+51,Z,Social Media,26,2,4,A,3
+52,Z,Brand Management,26,1,5,S,4
+53,Z,Public Relations,26,1,5,S,4
+54,Z,Corporate Communications,26,1,5,S,4
+55,Z,Events Management,26,2,4,A,3
+56,Z,Market Research,26,1,5,S,4
+57,Z,Competitive Analysis,26,0,5,S,5
+58,Z,Customer Intelligence,26,1,5,S,4
+59,Z,Product Marketing,26,1,5,S,4
+60,Z,Partner Marketing,26,1,5,S,4
+61,Z,Growth Marketing,26,0,5,S,5
+62,Z,Performance Marketing,26,1,5,S,4
+63,Z,Email Marketing,26,2,4,A,3
+64,Z,SEO Optimization,26,1,5,S,4
+65,Z,SEM Management,26,1,5,S,4
+66,Z,Analytics Engineering,26,0,5,S,5
+67,Z,Data Engineering,26,0,5,S,5
+68,Z,Machine Learning,26,0,5,S,5
+69,Z,AI Development,26,0,5,S,5
+70,Z,Blockchain Development,26,0,5,S,5
+71,Z,Cloud Architecture,26,0,5,S,5
+72,Z,Systems Architecture,26,0,5,S,5
+73,Z,Network Architecture,26,0,5,S,5
+74,Z,Security Architecture,26,0,5,S,5
+75,Z,Information Security,26,0,5,S,5
+76,Z,Application Security,26,0,5,S,5
+77,Z,Security Operations,26,1,5,S,4
+78,Z,Cyber Security,26,0,5,S,5
+79,Z,Security Engineering,26,0,5,S,5
+80,Z,Penetration Testing,26,0,5,S,5
+81,Z,Security Analysis,26,1,5,S,4
+82,Z,Incident Response,26,1,5,S,4
+83,Z,Threat Intelligence,26,0,5,S,5
+84,Z,Risk Assessment,26,1,5,S,4
+85,Z,Compliance Audit,26,1,5,S,4
+86,Z,Security Architecture,26,0,5,S,5
+87,Z,Identity Management,26,1,5,S,4
+88,Z,Access Management,26,1,5,S,4
+89,Z,Security Governance,26,0,5,S,5
+90,Z,Security Training,26,1,5,S,4
+91,Z,Documentation,26,2,4,A,3
+92,Z,Technical Writing,26,1,5,S,4
+93,Z,Knowledge Management,26,1,5,S,4
+94,Z,Learning Development,26,1,5,S,4
+95,Z,Training Coordination,26,2,4,A,3
+96,Z,Organizational Development,26,0,5,S,5
+97,Z,Talent Management,26,1,5,S,4
+98,Z,Recruitment,26,1,5,S,4
+99,Z,Talent Acquisition,26,1,5,S,4
+100,Z,Employee Relations,26,1,5,S,4

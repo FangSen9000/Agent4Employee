@@ -1,0 +1,102 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+Thomas Taylor,Male,Sales,24,2,4,A,3
+James Taylor,Male,Marketing,24,1,3,B,2
+Richard Smith,Male,Marketing,24,3,2,B,1
+David Johnson,Male,Engineering,24,1,4,A,3
+Robert Williams,Male,IT Support,24,4,2,C,1
+Joseph Brown,Male,Data Science,24,1,5,S,4
+Charles Davis,Male,Software Engineering,24,2,4,A,3
+Christopher Lee,Male,Operations,24,3,3,B,2
+Daniel Miller,Male,Business Intelligence,24,1,4,A,3
+Edward Wilson,Male,Product Management,24,2,4,A,4
+George Moore,Male,Quality Assurance,24,4,2,B,1
+Henry Jackson,Male,Research & Development,24,1,5,S,4
+Kevin Harris,Male,Customer Success,24,3,3,B,2
+Larry Thompson,Male,Infrastructure,24,4,2,C,1
+Mark Rodriguez,Male,Cloud Engineering,24,2,4,A,3
+Nathan Garcia,Male,Systems Administration,24,4,2,B,1
+Oscar Martinez,Male,Technical Support,24,4,2,C,0
+Paul Robinson,Male,DevOps,24,2,4,A,3
+Quinn Lewis,Male,Frontend Development,24,2,4,A,2
+Ryan Lee,Male,Backend Development,24,1,5,S,3
+Samuel Clark,Male,Mobile Development,24,2,4,A,2
+Timothy Wright,Male,UX Design,24,2,3,B,1
+Victor Young,Male,UI Design,24,2,3,B,1
+Walter King,Male,Database Administration,24,3,3,B,2
+Adam Scott,Male,Network Security,24,2,4,A,3
+Brian Adams,Male,Logistics,24,4,2,C,1
+Carl Baker,Male,Facilities Management,24,5,1,C,0
+Dennis Carter,Male,Supply Chain,24,3,3,B,2
+Eric Evans,Male,Procurement,24,4,2,C,1
+Frank Foster,Male,Inventory Management,24,4,2,C,1
+Gary Green,Male,Office Administration,24,5,1,C,0
+Howard Hall,Male,Asset Management,24,3,3,B,2
+Ian Hughes,Male,Finance,24,2,4,A,3
+Jack Jenkins,Male,Accounting,24,3,3,B,2
+Keith Kennedy,Male,Legal,24,1,5,S,4
+Lawrence Long,Male,Compliance,24,3,3,B,2
+Matthew Morris,Male,Risk Management,24,2,4,A,3
+Norman Nelson,Male,Internal Audit,24,3,3,B,2
+Oliver Owen,Male,Treasury,24,2,4,A,3
+Peter Parker,Male,Tax,24,3,3,B,2
+Quentin Quinn,Male,Business Development,24,1,5,S,4
+Ronald Ross,Male,Strategic Planning,24,1,5,S,4
+Stephen Stevens,Male,Corporate Development,24,2,4,A,3
+Trevor Turner,Male,Project Management,24,2,4,A,3
+Urban Underwood,Male,Program Management,24,2,4,A,3
+Vincent Valentine,Male,Portfolio Management,24,2,4,A,3
+Wesley Watson,Male,Change Management,24,2,4,A,3
+Xavier Xiong,Male,Innovation,24,1,5,S,4
+Zachary Zhang,Male,Digital Marketing,24,2,4,A,3
+Aaron Abbott,Male,Content Marketing,24,3,3,B,2
+Benjamin Bennett,Male,Social Media,24,3,3,B,1
+Cameron Collins,Male,Brand Management,24,2,4,A,3
+Derek Davidson,Male,Public Relations,24,2,4,A,3
+Ethan Ellis,Male,Corporate Communications,24,2,4,A,3
+Felix Fisher,Male,Events Management,24,3,3,B,2
+Gregory Graham,Male,Market Research,24,2,4,A,3
+Harold Henderson,Male,Competitive Analysis,24,2,4,A,3
+Isaac Irving,Male,Customer Intelligence,24,1,5,S,4
+Justin James,Male,Product Marketing,24,2,4,A,3
+Kyle Klein,Male,Partner Marketing,24,2,4,A,3
+Leon Lloyd,Male,Growth Marketing,24,1,5,S,4
+Marcus Marshall,Male,Performance Marketing,24,2,4,A,3
+Noah Newman,Male,Email Marketing,24,3,3,B,2
+Owen O'Brien,Male,SEO Optimization,24,3,3,B,2
+Patrick Powell,Male,SEM Management,24,3,3,B,2
+Randy Russell,Male,Analytics Engineering,24,1,5,S,4
+Simon Sanders,Male,Data Engineering,24,1,5,S,4
+Theodore Tucker,Male,Machine Learning,24,1,5,S,4
+Ulysses Urban,Male,AI Development,24,1,5,S,4
+Vincent Vaughn,Male,Blockchain Development,24,1,5,S,4
+Wallace Warren,Male,Cloud Architecture,24,1,5,S,4
+Xavier Xavier,Male,Systems Architecture,24,2,4,A,3
+Yves Young,Male,Network Architecture,24,2,4,A,3
+Zane Zimmerman,Male,Security Architecture,24,2,4,A,3
+Alan Anderson,Male,Information Security,24,2,4,A,3
+Blake Baldwin,Male,Application Security,24,2,4,A,3
+Curtis Coleman,Male,Security Operations,24,2,4,A,3
+Dean Douglas,Male,Cyber Security,24,1,5,S,4
+Elliott Edwards,Male,Security Engineering,24,2,4,A,3
+Floyd Fletcher,Male,Penetration Testing,24,1,5,S,4
+Gordon Gibson,Male,Security Analysis,24,2,4,A,3
+Hugo Hamilton,Male,Incident Response,24,2,4,A,3
+Ivan Ingram,Male,Threat Intelligence,24,1,5,S,4
+Jerome Jackson,Male,Risk Assessment,24,2,4,A,3
+Kirk Kennedy,Male,Compliance Audit,24,3,3,B,2
+Lance Lambert,Male,Security Architecture,24,2,4,A,3
+Maurice Mitchell,Male,Identity Management,24,2,4,A,3
+Nathan Norton,Male,Access Management,24,2,4,A,3
+Oscar O'Connor,Male,Security Governance,24,2,4,A,3
+Percy Palmer,Male,Security Training,24,3,3,B,2
+Quentin Quinn,Male,Documentation,24,4,2,C,1
+Roger Richards,Male,Technical Writing,24,4,2,C,1
+Sebastian Stone,Male,Knowledge Management,24,3,3,B,2
+Travis Thompson,Male,Learning Development,24,2,4,A,3
+Ulrich Urban,Male,Training Coordination,24,3,3,B,2
+Victor Valentine,Male,Organizational Development,24,2,4,A,3
+Winston Walker,Male,Talent Management,24,2,4,A,3
+Xavier Xu,Male,Recruitment,24,3,3,B,2
+Yuri Young,Male,Talent Acquisition,24,3,3,B,2
+Zachary Zhang,Male,Employee Relations,24,2,4,A,3
+,,,,2.27,3.66,,2.6

@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+Thomas Taylor,Male,Sales,28,0,5,S,5
+James Taylor,Male,Marketing,28,1,5,S,4
+Richard Smith,Male,Marketing,28,3,3,B,2
+David Johnson,Male,Engineering,28,0,5,S,5
+Robert Williams,Male,IT Support,28,4,2,C,1
+Joseph Brown,Male,Data Science,28,0,5,S,5
+Charles Davis,Male,Software Engineering,28,0,5,S,5
+Christopher Lee,Male,Operations,28,1,5,S,4
+Daniel Miller,Male,Business Intelligence,28,0,5,S,5
+Edward Wilson,Male,Product Management,28,0,5,S,5
+George Moore,Male,Quality Assurance,28,4,2,C,1
+Henry Jackson,Male,Research & Development,28,0,5,S,5
+Kevin Harris,Male,Customer Success,28,1,5,S,4
+Larry Thompson,Male,Infrastructure,28,4,2,C,1
+Mark Rodriguez,Male,Cloud Engineering,28,0,5,S,5
+Nathan Garcia,Male,Systems Administration,28,4,2,C,1
+Oscar Martinez,Male,Technical Support,28,4,1,C,0
+Paul Robinson,Male,DevOps,28,0,5,S,5
+Quinn Lewis,Male,Frontend Development,28,0,5,S,4
+Ryan Lee,Male,Backend Development,28,0,5,S,5
+Samuel Clark,Male,Mobile Development,28,0,5,S,4
+Timothy Wright,Male,UX Design,28,1,5,S,3
+Victor Young,Male,UI Design,28,1,5,S,3
+Walter King,Male,Database Administration,28,1,5,S,4
+Adam Scott,Male,Network Security,28,0,5,S,5
+Brian Adams,Male,Logistics,28,4,2,C,1
+Carl Baker,Male,Facilities Management,28,4,1,C,0
+Dennis Carter,Male,Supply Chain,28,2,4,B,3
+Eric Evans,Male,Procurement,28,4,2,C,1
+Frank Foster,Male,Inventory Management,28,4,2,C,1
+Gary Green,Male,Office Administration,28,4,1,C,0
+Howard Hall,Male,Asset Management,28,2,4,A,4
+Ian Hughes,Male,Finance,28,0,5,S,5
+Jack Jenkins,Male,Accounting,28,1,5,S,4
+Keith Kennedy,Male,Legal,28,0,5,S,5
+Lawrence Long,Male,Compliance,28,1,5,S,4
+Matthew Morris,Male,Risk Management,28,0,5,S,5
+Norman Nelson,Male,Internal Audit,28,1,5,S,4
+Oliver Owen,Male,Treasury,28,0,5,S,5
+Peter Parker,Male,Tax,28,1,5,S,4
+Quentin Quinn,Male,Business Development,28,0,5,S,5
+Ronald Ross,Male,Strategic Planning,28,0,5,S,5
+Stephen Stevens,Male,Corporate Development,28,0,5,S,5
+Trevor Turner,Male,Project Management,28,0,5,S,5
+Urban Underwood,Male,Program Management,28,0,5,S,5
+Vincent Valentine,Male,Portfolio Management,28,0,5,S,5
+Wesley Watson,Male,Change Management,28,0,5,S,5
+Xavier Xiong,Male,Innovation,28,0,5,S,5
+Zachary Zhang,Male,Digital Marketing,28,0,5,S,5
+Aaron Abbott,Male,Content Marketing,28,1,5,S,4
+Benjamin Bennett,Male,Social Media,28,2,4,B,2
+Cameron Collins,Male,Brand Management,28,0,5,S,5
+Derek Davidson,Male,Public Relations,28,0,5,S,5
+Ethan Ellis,Male,Corporate Communications,28,0,5,S,5
+Felix Fisher,Male,Events Management,28,2,4,B,3
+Gregory Graham,Male,Market Research,28,0,5,S,5
+Harold Henderson,Male,Competitive Analysis,28,0,5,S,5
+Isaac Irving,Male,Customer Intelligence,28,0,5,S,5
+Justin James,Male,Product Marketing,28,0,5,S,5
+Kyle Klein,Male,Partner Marketing,28,0,5,S,5
+Leon Lloyd,Male,Growth Marketing,28,0,5,S,5
+Marcus Marshall,Male,Performance Marketing,28,0,5,S,5
+Noah Newman,Male,Email Marketing,28,2,4,A,4
+Owen O'Brien,Male,SEO Optimization,28,2,4,A,4
+Patrick Powell,Male,SEM Management,28,2,4,A,4
+Randy Russell,Male,Analytics Engineering,28,0,5,S,5
+Simon Sanders,Male,Data Engineering,28,0,5,S,5
+Theodore Tucker,Male,Machine Learning,28,0,5,S,5
+Ulysses Urban,Male,AI Development,28,0,5,S,5
+Vincent Vaughn,Male,Blockchain Development,28,0,5,S,5
+Wallace Warren,Male,Cloud Architecture,28,0,5,S,5
+Xavier Xavier,Male,Systems Architecture,28,0,5,S,5
+Yves Young,Male,Network Architecture,28,0,5,S,5
+Zane Zimmerman,Male,Security Architecture,28,0,5,S,5
+Alan Anderson,Male,Information Security,28,0,5,S,5
+Blake Baldwin,Male,Application Security,28,0,5,S,5
+Curtis Coleman,Male,Security Operations,28,0,5,S,5
+Dean Douglas,Male,Cyber Security,28,0,5,S,5
+Elliott Edwards,Male,Security Engineering,28,0,5,S,5
+Floyd Fletcher,Male,Penetration Testing,28,0,5,S,5
+Gordon Gibson,Male,Security Analysis,28,0,5,S,5
+Hugo Hamilton,Male,Incident Response,28,0,5,S,5
+Ivan Ingram,Male,Threat Intelligence,28,0,5,S,5
+Jerome Jackson,Male,Risk Assessment,28,0,5,S,5
+Kirk Kennedy,Male,Compliance Audit,28,1,5,S,4
+Lance Lambert,Male,Security Architecture,28,0,5,S,5
+Maurice Mitchell,Male,Identity Management,28,0,5,S,5
+Nathan Norton,Male,Access Management,28,0,5,S,5
+Oscar O'Connor,Male,Security Governance,28,0,5,S,5
+Percy Palmer,Male,Security Training,28,1,5,S,4
+Quentin Quinn,Male,Documentation,28,4,2,C,1
+Roger Richards,Male,Technical Writing,28,4,2,C,1
+Sebastian Stone,Male,Knowledge Management,28,2,4,B,3
+Travis Thompson,Male,Learning Development,28,0,5,S,5
+Ulrich Urban,Male,Training Coordination,28,2,4,B,3
+Victor Valentine,Male,Organizational Development,28,0,5,S,5
+Winston Walker,Male,Talent Management,28,0,5,S,5
+Xavier Xu,Male,Recruitment,28,1,5,S,4
+Yuri Young,Male,Talent Acquisition,28,1,5,S,4
+Zachary Zhang,Male,Employee Relations,28,0,5,S,5

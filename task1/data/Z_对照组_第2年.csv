@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+1,Z,Sales,24,2,3,A,2
+2,Z,Marketing,24,1,4,A,3
+3,Z,Marketing,24,3,2,B,1
+4,Z,Engineering,24,1,4,A,3
+5,Z,IT Support,24,4,2,B,1
+6,Z,Data Science,24,1,5,S,4
+7,Z,Software Engineering,24,2,4,A,3
+8,Z,Operations,24,3,3,B,2
+9,Z,Business Intelligence,24,1,4,A,3
+10,Z,Product Management,24,2,4,A,4
+11,Z,Quality Assurance,24,3,3,B,2
+12,Z,Research & Development,24,1,5,S,3
+13,Z,Customer Success,24,3,3,B,2
+14,Z,Infrastructure,24,2,4,A,3
+15,Z,Cloud Engineering,24,1,5,S,3
+16,Z,Systems Administration,24,3,3,B,2
+17,Z,Technical Support,24,4,2,C,1
+18,Z,DevOps,24,2,4,A,3
+19,Z,Frontend Development,24,2,4,A,2
+20,Z,Backend Development,24,1,5,S,3
+21,Z,Mobile Development,24,2,4,A,2
+22,Z,UX Design,24,2,4,A,3
+23,Z,UI Design,24,3,3,B,2
+24,Z,Database Administration,24,2,4,A,3
+25,Z,Network Security,24,1,5,S,4
+26,Z,Logistics,24,3,3,B,2
+27,Z,Facilities Management,24,4,2,C,1
+28,Z,Supply Chain,24,2,4,A,3
+29,Z,Procurement,24,3,3,B,2
+30,Z,Inventory Management,24,4,2,C,1
+31,Z,Office Administration,24,4,2,C,1
+32,Z,Asset Management,24,3,3,B,2
+33,Z,Finance,24,2,4,A,3
+34,Z,Accounting,24,3,3,B,2
+35,Z,Legal,24,1,5,S,4
+36,Z,Compliance,24,2,4,A,3
+37,Z,Risk Management,24,2,4,A,3
+38,Z,Internal Audit,24,2,4,A,3
+39,Z,Treasury,24,2,4,A,3
+40,Z,Tax,24,2,4,A,3
+41,Z,Business Development,24,1,5,S,4
+42,Z,Strategic Planning,24,1,5,S,4
+43,Z,Corporate Development,24,1,5,S,4
+44,Z,Project Management,24,2,4,A,3
+45,Z,Program Management,24,2,4,A,3
+46,Z,Portfolio Management,24,1,5,S,4
+47,Z,Change Management,24,2,4,A,3
+48,Z,Innovation,24,1,5,S,4
+49,Z,Digital Marketing,24,2,4,A,3
+50,Z,Content Marketing,24,3,3,B,2
+51,Z,Social Media,24,3,3,B,2
+52,Z,Brand Management,24,2,4,A,3
+53,Z,Public Relations,24,2,4,A,3
+54,Z,Corporate Communications,24,2,4,A,3
+55,Z,Events Management,24,3,3,B,2
+56,Z,Market Research,24,2,4,A,3
+57,Z,Competitive Analysis,24,1,5,S,4
+58,Z,Customer Intelligence,24,2,4,A,3
+59,Z,Product Marketing,24,2,4,A,3
+60,Z,Partner Marketing,24,2,4,A,3
+61,Z,Growth Marketing,24,1,5,S,4
+62,Z,Performance Marketing,24,2,4,A,3
+63,Z,Email Marketing,24,3,3,B,2
+64,Z,SEO Optimization,24,2,4,A,3
+65,Z,SEM Management,24,2,4,A,3
+66,Z,Analytics Engineering,24,1,5,S,4
+67,Z,Data Engineering,24,1,5,S,4
+68,Z,Machine Learning,24,1,5,S,4
+69,Z,AI Development,24,1,5,S,4
+70,Z,Blockchain Development,24,1,5,S,4
+71,Z,Cloud Architecture,24,1,5,S,4
+72,Z,Systems Architecture,24,1,5,S,4
+73,Z,Network Architecture,24,1,5,S,4
+74,Z,Security Architecture,24,1,5,S,4
+75,Z,Information Security,24,1,5,S,4
+76,Z,Application Security,24,1,5,S,4
+77,Z,Security Operations,24,2,4,A,3
+78,Z,Cyber Security,24,1,5,S,4
+79,Z,Security Engineering,24,1,5,S,4
+80,Z,Penetration Testing,24,1,5,S,4
+81,Z,Security Analysis,24,2,4,A,3
+82,Z,Incident Response,24,2,4,A,3
+83,Z,Threat Intelligence,24,1,5,S,4
+84,Z,Risk Assessment,24,2,4,A,3
+85,Z,Compliance Audit,24,2,4,A,3
+86,Z,Security Architecture,24,1,5,S,4
+87,Z,Identity Management,24,2,4,A,3
+88,Z,Access Management,24,2,4,A,3
+89,Z,Security Governance,24,1,5,S,4
+90,Z,Security Training,24,2,4,A,3
+91,Z,Documentation,24,3,3,B,2
+92,Z,Technical Writing,24,2,4,A,3
+93,Z,Knowledge Management,24,2,4,A,3
+94,Z,Learning Development,24,2,4,A,3
+95,Z,Training Coordination,24,3,3,B,2
+96,Z,Organizational Development,24,1,5,S,4
+97,Z,Talent Management,24,2,4,A,3
+98,Z,Recruitment,24,2,4,A,3
+99,Z,Talent Acquisition,24,2,4,A,3
+100,Z,Employee Relations,24,2,4,A,3

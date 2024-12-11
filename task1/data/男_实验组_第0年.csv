@@ -1,0 +1,101 @@
+Name,Gender,Department,Age,Low_Value_Tasks,High_Value_Tasks,Performance,Leadership_Tasks
+Thomas Taylor,Male,Sales,22,1,1,B,1
+James Taylor,Male,Marketing,22,1,1,B,1
+Richard Smith,Male,Marketing,22,1,1,B,1
+David Johnson,Male,Engineering,22,1,1,B,1
+Robert Williams,Male,IT Support,22,1,1,B,1
+Joseph Brown,Male,Data Science,22,1,1,B,1
+Charles Davis,Male,Software Engineering,22,1,1,B,1
+Christopher Lee,Male,Operations,22,1,1,B,1
+Daniel Miller,Male,Business Intelligence,22,1,1,B,1
+Edward Wilson,Male,Product Management,22,1,1,B,1
+George Moore,Male,Quality Assurance,22,1,1,B,1
+Henry Jackson,Male,Research & Development,22,1,1,B,1
+Kevin Harris,Male,Customer Success,22,1,1,B,1
+Larry Thompson,Male,Infrastructure,22,1,1,B,1
+Mark Rodriguez,Male,Cloud Engineering,22,1,1,B,1
+Nathan Garcia,Male,Systems Administration,22,1,1,B,1
+Oscar Martinez,Male,Technical Support,22,1,1,B,1
+Paul Robinson,Male,DevOps,22,1,1,B,1
+Quinn Lewis,Male,Frontend Development,22,1,1,B,1
+Ryan Lee,Male,Backend Development,22,1,1,B,1
+Samuel Clark,Male,Mobile Development,22,1,1,B,1
+Timothy Wright,Male,UX Design,22,1,1,B,1
+Victor Young,Male,UI Design,22,1,1,B,1
+Walter King,Male,Database Administration,22,1,1,B,1
+Adam Scott,Male,Network Security,22,1,1,B,1
+Brian Adams,Male,Logistics,22,1,1,B,1
+Carl Baker,Male,Facilities Management,22,1,1,B,1
+Dennis Carter,Male,Supply Chain,22,1,1,B,1
+Eric Evans,Male,Procurement,22,1,1,B,1
+Frank Foster,Male,Inventory Management,22,1,1,B,1
+Gary Green,Male,Office Administration,22,1,1,B,1
+Howard Hall,Male,Asset Management,22,1,1,B,1
+Ian Hughes,Male,Finance,22,1,1,B,1
+Jack Jenkins,Male,Accounting,22,1,1,B,1
+Keith Kennedy,Male,Legal,22,1,1,B,1
+Lawrence Long,Male,Compliance,22,1,1,B,1
+Matthew Morris,Male,Risk Management,22,1,1,B,1
+Norman Nelson,Male,Internal Audit,22,1,1,B,1
+Oliver Owen,Male,Treasury,22,1,1,B,1
+Peter Parker,Male,Tax,22,1,1,B,1
+Quentin Quinn,Male,Business Development,22,1,1,B,1
+Ronald Ross,Male,Strategic Planning,22,1,1,B,1
+Stephen Stevens,Male,Corporate Development,22,1,1,B,1
+Trevor Turner,Male,Project Management,22,1,1,B,1
+Urban Underwood,Male,Program Management,22,1,1,B,1
+Vincent Valentine,Male,Portfolio Management,22,1,1,B,1
+Wesley Watson,Male,Change Management,22,1,1,B,1
+Xavier Xiong,Male,Innovation,22,1,1,B,1
+Zachary Zhang,Male,Digital Marketing,22,1,1,B,1
+Aaron Abbott,Male,Content Marketing,22,1,1,B,1
+Benjamin Bennett,Male,Social Media,22,1,1,B,1
+Cameron Collins,Male,Brand Management,22,1,1,B,1
+Derek Davidson,Male,Public Relations,22,1,1,B,1
+Ethan Ellis,Male,Corporate Communications,22,1,1,B,1
+Felix Fisher,Male,Events Management,22,1,1,B,1
+Gregory Graham,Male,Market Research,22,1,1,B,1
+Harold Henderson,Male,Competitive Analysis,22,1,1,B,1
+Isaac Irving,Male,Customer Intelligence,22,1,1,B,1
+Justin James,Male,Product Marketing,22,1,1,B,1
+Kyle Klein,Male,Partner Marketing,22,1,1,B,1
+Leon Lloyd,Male,Growth Marketing,22,1,1,B,1
+Marcus Marshall,Male,Performance Marketing,22,1,1,B,1
+Noah Newman,Male,Email Marketing,22,1,1,B,1
+Owen O'Brien,Male,SEO Optimization,22,1,1,B,1
+Patrick Powell,Male,SEM Management,22,1,1,B,1
+Randy Russell,Male,Analytics Engineering,22,1,1,B,1
+Simon Sanders,Male,Data Engineering,22,1,1,B,1
+Theodore Tucker,Male,Machine Learning,22,1,1,B,1
+Ulysses Urban,Male,AI Development,22,1,1,B,1
+Vincent Vaughn,Male,Blockchain Development,22,1,1,B,1
+Wallace Warren,Male,Cloud Architecture,22,1,1,B,1
+Xavier Xavier,Male,Systems Architecture,22,1,1,B,1
+Yves Young,Male,Network Architecture,22,1,1,B,1
+Zane Zimmerman,Male,Security Architecture,22,1,1,B,1
+Alan Anderson,Male,Information Security,22,1,1,B,1
+Blake Baldwin,Male,Application Security,22,1,1,B,1
+Curtis Coleman,Male,Security Operations,22,1,1,B,1
+Dean Douglas,Male,Cyber Security,22,1,1,B,1
+Elliott Edwards,Male,Security Engineering,22,1,1,B,1
+Floyd Fletcher,Male,Penetration Testing,22,1,1,B,1
+Gordon Gibson,Male,Security Analysis,22,1,1,B,1
+Hugo Hamilton,Male,Incident Response,22,1,1,B,1
+Ivan Ingram,Male,Threat Intelligence,22,1,1,B,1
+Jerome Jackson,Male,Risk Assessment,22,1,1,B,1
+Kirk Kennedy,Male,Compliance Audit,22,1,1,B,1
+Lance Lambert,Male,Security Architecture,22,1,1,B,1
+Maurice Mitchell,Male,Identity Management,22,1,1,B,1
+Nathan Norton,Male,Access Management,22,1,1,B,1
+Oscar O'Connor,Male,Security Governance,22,1,1,B,1
+Percy Palmer,Male,Security Training,22,1,1,B,1
+Quentin Quinn,Male,Documentation,22,1,1,B,1
+Roger Richards,Male,Technical Writing,22,1,1,B,1
+Sebastian Stone,Male,Knowledge Management,22,1,1,B,1
+Travis Thompson,Male,Learning Development,22,1,1,B,1
+Ulrich Urban,Male,Training Coordination,22,1,1,B,1
+Victor Valentine,Male,Organizational Development,22,1,1,B,1
+Winston Walker,Male,Talent Management,22,1,1,B,1
+Xavier Xu,Male,Recruitment,22,1,1,B,1
+Yuri Young,Male,Talent Acquisition,22,1,1,B,1
+Zachary Zhang,Male,Employee Relations,22,1,1,B,1
